@@ -3,6 +3,10 @@
   "description": "Example for package jestus",
   "type": "module",
   "version": "0.0.0",
+  "imports": {
+    "#module/*.js": "./module/*.js",
+    "#module/*": "./module/*.js"
+  },
   "scripts": {
     "start": "nodemon ./src/index.js",
     "test": "jest",

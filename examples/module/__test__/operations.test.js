@@ -1,4 +1,4 @@
-import { sketch, prove } from "../../../jestus";
+import { sketch, prove } from 'jestus';
 
 import {
   addTestCases,

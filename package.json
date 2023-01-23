@@ -7,10 +7,7 @@
   "bugs": {
     "url": "https://github.com/trouchet/jestus/issues"
   },
-  "exports": {
-    "@jestus": "./jestus.js"
-  },
-  "main": "index.js",
+  "main": "jestus.js",
   "scripts": {
     "test": "jest",
     "prepare": "husky install",

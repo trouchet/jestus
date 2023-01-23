@@ -1,12 +1,8 @@
 {
-  "name": "jestus",
-  "description": "Test import-property on package.json",
+  "name": "jestus-example",
+  "description": "Example for package jestus",
   "type": "module",
-  "exports": {
-    "@jestus": "./jestus.js"
-  },
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.0.0",
   "scripts": {
     "start": "nodemon ./src/index.js",
     "test": "jest",

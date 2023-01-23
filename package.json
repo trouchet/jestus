@@ -1,7 +1,7 @@
 {
   "name": "jestus",
   "description": "Single and batch test utilitary functions on pattern setup-exercise-verify-teardown",
-  "version": "0.1.1-0",
+  "version": "0.1.1",
   "type": "module",
   "homepage": "https://github.com/trouchet/jestus#readme",
   "bugs": {

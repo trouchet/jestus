@@ -8,6 +8,10 @@
     "url": "https://github.com/trouchet/jestus/issues"
   },
   "main": "jestus.js",
+  "exports": {
+    "import": "./jestus.js",
+    "require": "./jestus.js"
+  },
   "scripts": {
     "test": "jest",
     "prepare": "husky install",

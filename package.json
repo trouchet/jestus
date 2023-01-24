@@ -7,10 +7,10 @@
   "bugs": {
     "url": "https://github.com/trouchet/jestus/issues"
   },
-  "main": "jestus.js",
+  "main": "index.js",
   "exports": {
-    "import": "./jestus.js",
-    "require": "./jestus.js"
+    "import": "./index.js",
+    "require": "./index.js"
   },
   "scripts": {
     "test": "jest",

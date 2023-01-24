@@ -1,4 +1,4 @@
-import { assert, batchAssert, atest, batchAtest } from '../jestus';
+import { assert, batchAssert, atest, batchAtest } from '../index';
 
 import {
   assertFixtures,

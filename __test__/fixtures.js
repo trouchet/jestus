@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { buildAssertion, buildScenario } from '../jestus';
+import { buildAssertion, buildScenario } from '../index';
 
 const expectToBeDefined = (result) => expect(result).toBeDefined()
 const expectToBe = (result, expected) => expect(result).toBe(expected)

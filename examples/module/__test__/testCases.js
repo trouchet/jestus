@@ -6,7 +6,7 @@ import {
   buildAssertion,
   buildScenario,
   sketch,
-} from '../../../jestus';
+} from '../../../index';
 
 import { add, multiply, subtract, divide } from "../operations";
 

@@ -4,8 +4,7 @@ import {
   atest,
   batchAtest,
   buildAssertion,
-  buildScenario,
-  sketch,
+  buildScenario
 } from "../../../index";
 
 import { add, multiply, subtract, divide } from "../operations";

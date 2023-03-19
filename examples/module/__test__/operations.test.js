@@ -1,4 +1,4 @@
-import { sketch, prove } from "../../../index";
+import { sketch, prove } from "../../../src/index";
 
 import {
   addTestCases,

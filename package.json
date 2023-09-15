@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "@babel/preset-env": "^7.20.2",
-    "arqeo": "^0.2.5",
+    "arqeo": "^0.3.0",
     "lodash": "^4.17.21",
     "ts-jest": "^29.0.5"
   }
